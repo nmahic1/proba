@@ -1,2 +1,2 @@
-# zadaca1
+# proba
 zadaca1 iz rpr
